@@ -1,0 +1,27 @@
+matric_number,full_name,level,eligibility
+CVE/2024/001,Amara Okonkwo,100,eligible
+CVE/2024/002,Chukwuemeka Adeyemi,100,eligible
+CVE/2024/003,Fatima Bello,100,eligible
+CVE/2024/004,Ibrahim Musa,100,eligible
+CVE/2024/005,Ngozi Eze,100,eligible
+CVE/2024/006,Taiwo Akinwale,100,ineligible
+CVE/2023/001,Adaeze Nwosu,200,eligible
+CVE/2023/002,Babatunde Olawale,200,eligible
+CVE/2023/003,Chioma Obi,200,eligible
+CVE/2023/004,David Uche,200,eligible
+CVE/2023/005,Emeka Nwofor,200,eligible
+CVE/2022/001,Funmilayo Adeola,300,eligible
+CVE/2022/002,Gbenga Lawal,300,eligible
+CVE/2022/003,Hauwa Bala,300,eligible
+CVE/2022/004,Ifeanyi Okeke,300,eligible
+CVE/2022/005,Jumoke Salami,300,eligible
+CVE/2021/001,Kemi Adewale,400,eligible
+CVE/2021/002,Lanre Balogun,400,eligible
+CVE/2021/003,Miriam Duru,400,eligible
+CVE/2021/004,Nnamdi Okafor,400,eligible
+CVE/2021/005,Olumide Fashola,400,eligible
+CVE/2020/001,Patience Okonkwo,500,eligible
+CVE/2020/002,Quadri Yusuf,500,eligible
+CVE/2020/003,Rashida Abdullahi,500,eligible
+CVE/2020/004,Seun Olawuwo,500,eligible
+CVE/2020/005,Tunde Coker,500,eligible
